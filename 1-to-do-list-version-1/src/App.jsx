@@ -4,7 +4,7 @@ import TodoItem1 from "./TodoItem1";
 import TodoItem2 from "./TodoItem2";
 import './App.css';
 
-
+// sagar
 function App() {
   return (
     <center class="todo-container">
@@ -14,9 +14,6 @@ function App() {
     <TodoItem1/>
     <TodoItem2/>
     </div>
-    
-     
-      
     </center>
   );
 }
