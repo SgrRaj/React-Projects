@@ -11,12 +11,9 @@ function App() {
     <AppName></AppName>
     <AppToDo></AppToDo>
     <div class='todoitem-container'>
-    <TodoItem1/>
+    <TodoItem1></TodoItem1>
     <TodoItem2/>
     </div>
-    
-     
-      
     </center>
   );
 }

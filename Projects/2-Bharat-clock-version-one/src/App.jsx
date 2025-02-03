@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
  
-// vbhfbhb
+// without css 
   return( <center>
     <ClockHeading></ClockHeading>
     <ClockSlogan></ClockSlogan>
